@@ -1,5 +1,5 @@
 # Timer-0&2 ATmega32 Driver (Bare Metal Embedded C Code)
-> **Handle BOTH 8-Bit Timers (0 & 2) in This Driver**
+> **TWO DRIVERS One for Each of The Two 8-Bit Timers (0 & 2) in This Repo**
 
 USAGE EXPLAINED IN >> *Timer02_Manual.pdf* <<
 
